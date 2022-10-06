@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0px;
+}
+body{
+    background-color: rgb(255, 231, 196);
+    background-image: url(bg1.jpg);
+   background-size: cover;
+}
+nav.navbar{
+    background-color: rgb(15, 0, 131);
+    box-shadow: 0 1px 10px;
+}
+nav ul{
+    margin-left: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+li{
+    float: left;
+    margin-left: 7%;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    border: none ;
+    list-style: none;
+
+
+}
+ li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+ul{
+    overflow: auto;
+}
